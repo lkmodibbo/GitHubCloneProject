@@ -1,2 +1,1 @@
-This is the description of my repo
-
+# Github Clone Project
